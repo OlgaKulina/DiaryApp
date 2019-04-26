@@ -9,6 +9,6 @@ namespace DiaryApp.Models
     {
         public int User_Id { get; set; }
         public int Password_Id { get; set; }
-        public int Hush_Id { get; set; }
+        public int Hash_Id { get; set; }
     }
 }
