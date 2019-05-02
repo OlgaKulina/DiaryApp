@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using DiaryApp.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using DiaryApp.Models;
 
 namespace DiaryApp
 {
