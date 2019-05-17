@@ -3,17 +3,17 @@
 
 namespace DiaryApp.Models
 {
-    public class UserAimContext:DbContext
-    {
-        public DbSet<UserAim> UserAims { get; set; }
+    ////public class UserAimContext:DbContext
+    ////{
+    ////    public DbSet<UserAim> UserAims { get; set; }
 
-        public UserAimContext(DbContextOptions<UserAimContext> options)
-            : base(options)
-        {
-            Database.EnsureCreated();
-        }
+    ////    public UserAimContext(DbContextOptions<UserAimContext> options)
+    ////        : base(options)
+    ////    {
+    ////        Database.EnsureCreated();
+    ////    }
 
 
 
-    }
+    ////}
 }

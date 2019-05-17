@@ -17,7 +17,7 @@ namespace DiaryApp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Why DiaryApp?";
 
             return View();
         }
