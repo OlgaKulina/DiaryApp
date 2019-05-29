@@ -4,7 +4,7 @@ namespace DiaryApp.Models
 {
     public class UserTask
     {
-        public int User_Id { get; set; }
+        public int UserId { get; set; }
         public int UserTask_Id { get; set; }
         public int Priority_Id { get; set; }
         public int Period_Id { get; set; }

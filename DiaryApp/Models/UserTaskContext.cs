@@ -14,7 +14,7 @@ namespace DiaryApp.Models
     //    public DbSet<MonthlyTasks> MonthlyTasks { get; set; }
     //    public DbSet<Grade> Grades { get; set; }
 
-    //    public UserTaskContext (DbContextOptions<UserTaskContext> options)
+    //    public UserTaskContext(DbContextOptions<UserTaskContext> options)
     //        : base(options)
     //    {
     //        Database.EnsureCreated();
